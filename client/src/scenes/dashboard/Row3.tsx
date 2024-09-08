@@ -102,10 +102,10 @@ const Row3 = () => {
               border: "none",
             },
             "& .MuiDataGrid-cell": {
-              borderBottom: `1px solid ${palette.grey[800]} !important`,
+              borderBottom: `1px solid ${palette.grey[100]} !important`,
             },
             "& .MuiDataGrid-columnHeaders": {
-              borderBottom: `1px solid ${palette.grey[800]} !important`,
+              borderBottom: `1px solid ${palette.grey[100]} !important`,
             },
             "& .MuiDataGrid-columnSeparator": {
               visibility: "hidden",
@@ -136,10 +136,10 @@ const Row3 = () => {
               border: "none",
             },
             "& .MuiDataGrid-cell": {
-              borderBottom: `1px solid ${palette.grey[800]} !important`,
+              borderBottom: `1px solid ${palette.grey[100]} !important`,
             },
             "& .MuiDataGrid-columnHeaders": {
-              borderBottom: `1px solid ${palette.grey[800]} !important`,
+              borderBottom: `1px solid ${palette.grey[100]} !important`,
             },
             "& .MuiDataGrid-columnSeparator": {
               visibility: "hidden",

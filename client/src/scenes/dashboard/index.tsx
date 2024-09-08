@@ -4,10 +4,10 @@ import Row2 from "./Row2";
 import Row3 from "./Row3";
 
 const gridTemplateLargeScreens = `
-  "a b c"
-  "a b c"
-  "a b c"
-  "a b f"
+  "a a c"
+  "a a c"
+  "a a c"
+  "a a f"
   "d e f"
   "d e f"
   "d h i"
@@ -20,10 +20,7 @@ const gridTemplateSmallScreens = `
   "a"
   "a"
   "a"
-  "b"
-  "b"
-  "b"
-  "b"
+ 
   "c"
   "c"
   "c"

@@ -76,7 +76,7 @@ const Row2 = () => {
               bottom: 55,
             }}
           >
-            <CartesianGrid vertical={false} stroke={palette.grey[800]} />
+            <CartesianGrid vertical={false} stroke={palette.grey[100]} />
             <XAxis
               dataKey="name"
               tickLine={false}
@@ -170,7 +170,7 @@ const Row2 = () => {
               left: -10,
             }}
           >
-            <CartesianGrid stroke={palette.grey[800]} />
+            <CartesianGrid stroke={palette.grey[100]} />
             <XAxis
               type="number"
               dataKey="price"
