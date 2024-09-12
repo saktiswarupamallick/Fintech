@@ -1,0 +1,32 @@
+/* src/App.css */
+
+.App {
+  text-align: center;
+}
+
+.board {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.column {
+  margin: 0 10px;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  width: 300px;
+}
+
+.task-list {
+  min-height: 100px;
+}
+
+.task {
+  padding: 8px;
+  margin-bottom: 8px;
+  background-color: white;
+  border: 1px solid lightgrey;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
